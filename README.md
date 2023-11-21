@@ -4,6 +4,7 @@
 This project focused on developing a churn prediction model using a Multi-Layer Perceptron (MLP) through a Functional API. The goal was to assist telecom operators in identifying customers who are likely to churn, enabling proactive measures to reduce customer attrition. The project includes Exploratory Data Analysis (EDA), model training, evaluation, and the creation of an interactive platform for real-time predictions.
 
 The Steps Enacted Include:
+
 1.Data Preprocessing and Feature Extraction
 
 2. Exploratory Data Analysis (EDA) & RandomForestClassifier for feature importance analysis.
@@ -19,11 +20,16 @@ The Steps Enacted Include:
 
 
 ## Repository Contents
-Google Colab Notebook,
-Saved MLP Model & Scaler,
-Web_App names app.py (Consists of the web-based application code for deploying the model),
-Video_Demonstration,
-README.md (This file)
+
+Google Colab Notebook
+
+Saved MLP Model & Scaler
+
+Web_App names app.py :Consists of the web-based application code for deploying the model
+
+Video_Demonstration
+
+README.md :This file
 
 
 
