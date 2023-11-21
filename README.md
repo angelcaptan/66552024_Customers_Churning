@@ -5,20 +5,25 @@ This project focused on developing a churn prediction model using a Multi-Layer 
 
 The Steps Enacted Include:
 1.Data Preprocessing and Feature Extraction
+
 2. Exploratory Data Analysis (EDA) & RandomForestClassifier for feature importance analysis.
+
 3. Model Development Using an MLP Classifier Model
+   
 4. Model Evaluation using Auc Score, Accuracy Score, Confusion matrix, ROC curve and Classification report
+   
 5. Model Deployment using Streamlit
+   
 6. Video Demonstration demonstrating the application's functionality. Link :
 
 
 
 ## Repository Contents
-Google Colab Notebook
-Saved MLP Model & Scaler
-Web_App: Consists of the web-based application code for deploying the model.
-Video_Demonstration
-README.md: This file
+Google Colab Notebook,
+Saved MLP Model & Scaler,
+Web_App names app.py (Consists of the web-based application code for deploying the model),
+Video_Demonstration,
+README.md (This file)
 
 
 
