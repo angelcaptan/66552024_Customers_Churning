@@ -15,7 +15,7 @@ The Steps Enacted Include:
    
 5. Model Deployment using Streamlit
    
-6. Video Demonstration demonstrating the application's functionality. Link :
+6. Video Demonstration demonstrating the application's functionality.  [Watch the video demonstration here](link_to_your_video)
 
 
 
